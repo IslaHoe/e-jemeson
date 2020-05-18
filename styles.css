@@ -6,7 +6,6 @@ body   {  background:rgb(169, 169, 179);}
 
 h1 {
     color: black;
-    font-size: 2em;
     font-family: 'Work Sans', sans-serif;
   }
 
@@ -14,7 +13,6 @@ h1 {
   .box{
     font-family: 'Work Sans', sans-serif;
     position: absolute;
-    font-size: 24pt;
   }
 
   .top-left-box {
@@ -28,7 +26,6 @@ h1 {
     top: 2.5%;
     right: 2.5%;
     float: right;
-    font-size: 24pt;
     position: absolute;
   }
 
@@ -36,7 +33,6 @@ h1 {
     bottom: 2.5%;
     left: 2.5%;
     float: left;
-    font-size: 24pt;
     position: absolute;
   }
   
@@ -44,12 +40,11 @@ h1 {
     bottom: 2.5%;
     right: 2.5%;
     float: right;
-    font-size: 24pt;
     position: absolute;
   }
 
   .center-box {
-    font-size: 300%;  
+    font-size: 200%;  
     position: fixed;
     position: fixed;
     top: 50%;
