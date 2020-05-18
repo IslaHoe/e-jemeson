@@ -89,7 +89,7 @@ li a:hover  {
 
 
 .menu li:first-child:hover ~ .bg {
-  background: #EFF8E2;
+  background: #FAF1C5;
 }
 .menu li:nth-child(2):hover ~ .bg {
   background: #bda9b3;
