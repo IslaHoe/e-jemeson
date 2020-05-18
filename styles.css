@@ -18,42 +18,44 @@ h1 {
   }
 
   .top-left-box {
-    top: 30px;
-    left: 30px;
+    top: 2.5%;
+    left: 2.5%;
     float: left;
     position: block;
   }
 
   .top-right-box {
-    top: 30px;
-    right: 30px;
+    top: 2.5%;
+    right: 2.5%;
     float: right;
     font-size: 24pt;
     position: absolute;
   }
 
   .bottom-left-box {
-    bottom: 30px;
-    left: 30px;
+    bottom: 2.5%;
+    left: 2.5%;
     float: left;
     font-size: 24pt;
     position: absolute;
   }
   
   .bottom-right-box {
-    bottom: 30px;
-    right: 30px;
+    bottom: 2.5%;
+    right: 2.5%;
     float: right;
     font-size: 24pt;
     position: absolute;
   }
 
   .center-box {
-    font-size: 48pt; 
-    left: 35%;
-    top: 45%;
-    justify-content: center;
-    position: absolute;
+    font-size: 300%;  
+    position: fixed;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -26.5px;
+    margin-left: -202.1px;
   }
 
 
