@@ -1,3 +1,4 @@
+
 * {    margin: 0;
     padding: 0;}
   
@@ -20,7 +21,7 @@ h1 {
     top: 30px;
     left: 30px;
     float: left;
-    position: absolute;
+    position: block;
   }
 
   .top-right-box {
@@ -49,7 +50,7 @@ h1 {
 
   .center-box {
     font-size: 48pt; 
-    left: 39%;
+    left: 35%;
     top: 45%;
     justify-content: center;
     position: absolute;
