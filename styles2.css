@@ -81,18 +81,3 @@ li a
       transition:.25s;}
 
 
-
-
-.menu li:first-child:hover ~ .bg {
-  background-color: #327272;
-}
-.menu li:nth-child(2):hover ~ .bg {
-  background: #327272;
-}
-.menu li:nth-child(3):hover ~ .bg {
-  background: #327272;
-}
-.menu li:nth-child(4):hover ~ .bg {
-  background:  #327272;
-}
-
