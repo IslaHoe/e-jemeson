@@ -11,7 +11,11 @@ h1 {
     color: black;
     font-family: 'Work Sans', sans-serif;
   }
-
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
 
 
 
