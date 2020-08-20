@@ -12,13 +12,43 @@ h1 {
     font-family: 'Work Sans', sans-serif;
   }
 @media only screen and (max-width: 600px) {
+  .top-left-box {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+
+  .top-right-box {
+    top: 30px;
+    right: 30px;
+    float: right;
+    position: absolute;
+  }
+
+  .bottom-left-box {
+    bottom: 30px;
+    left: 30px;
+    float: left;
+    position: absolute;
+  }
+  
+  .bottom-right-box {
+    bottom: 30px;
+    right: 30px;
+    float: right;
+    position: absolute;
+  }
+
+  .center-box {
+    font-size: 200%;  
+  }
 
   .center-box a {
     width: 100%;
     height: 100%;
-    margin-top: 90%;
-    background: yellow;
+    margin-top: 25%
   }
+
 }
 
 
