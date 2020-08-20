@@ -13,7 +13,7 @@ h1 {
   }
 @media only screen and (max-width: 600px) {
   body {
-    background-color: lightblue;
+    background-color: pink;
   }
   .center-box a {
     width: 100%;
